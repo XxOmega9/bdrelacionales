@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relacionales
+# Ana Sofía Delgado Germán
+4AVP
